@@ -1,0 +1,61 @@
+
+  img{
+    border-radius: 40%;
+  }
+  .contain{
+      max-width: 1000px;
+     margin: auto;
+     
+     
+  }
+
+.header {
+    padding: 50px 22px;
+    min-height: 50px;
+    text-align: center;
+    color: #fff;
+    background-color: #3f51b5;
+}  
+.biodata{
+   padding-top:50px;
+    float: right;
+   width: 600px;
+   /* display: inline-block; */
+   /* position: relative; */
+   
+}
+
+.summary{
+    width: 100%;
+    float: none;
+    /* position: relative; */
+    display: inline-block;
+}
+ 
+hr{
+    list-style-position: outside;
+}
+
+footer{
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    min-height: 50px;
+    text-align: center;
+    color: #fff;
+    background-color: #3f51b5;
+}
+
+hr{
+    border-top: 2px dotted rgb(19, 19, 114);
+    
+}
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.formvalid{
+    max-width: 100%;
+    margin: auto;
+    
+}
